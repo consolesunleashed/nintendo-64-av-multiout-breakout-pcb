@@ -7,3 +7,9 @@ A simple little PCB to help when RGB modding an N64. Add this little PCB to the 
 ## Version History
 
 - v1 - 30/07/2021
+
+## License
+
+If you use this in any way, shape or form, you must include a link back to this repository and mention me by name on any sales pages and social media posts. Not only will this help me to keep designing mod kits and offering them to the community, but it is basic common courtesy as well. Don't be a douchebag. :)
+
+Also this 'GNU GENERAL PUBLIC LICENSE Version 2, June 1991'.
